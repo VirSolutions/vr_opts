@@ -1,0 +1,1 @@
+"D:\VRDreams_workspace\Log_upload\Test\Email_bin>blat.exe" -install smtp.vrdreams.com.cn appoperation@vrdreams.com.cn 25

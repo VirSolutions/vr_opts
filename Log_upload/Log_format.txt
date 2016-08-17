@@ -1,0 +1,9 @@
+time_stemp,PC_ID,GAMEID,init/end,game_duration,player_name,score
+time_stemp,PC_ID,GAMEID,init/end,game_duration,player_name,score
+
+Example: 
+20160720091020,gstx_001,Fruit_1.0.0,init,60,user001,100
+
+*The log location should be in the game root folder/logs/opts/
+
+

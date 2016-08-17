@@ -1,0 +1,1 @@
+"C:\LEngine\Email_bin\blat" -savesettings -f appoperation@vrdreams.com.cn -server smtp.vrdreams.com.cn -port 25 -u appoperation@vrdreams.com.cn -pw Vrdreams1234
